@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="reference_individual_notes">
-    <title>独立笔记</title>
-    <shortdesc> 独立笔记和子笔记在本质上是一样的，只不过独立笔记不属于任何一个条目，独立笔记显示时和条目是一个级别。</shortdesc>
-   
-</reference>

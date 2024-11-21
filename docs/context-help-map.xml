@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="import-references" path="part4/topic_import_references.html"/>
+   <appContext helpID="import-references" path="part4/topic_create_library.html"/>
+   <appContext helpID="concept_create_library" path="part4/concept_library.html"/>
+   <appContext helpID="task_create_library" path="part4/task_create_library.html"/>
+   <appContext helpID="import-references" path="part4/topic_import_documents.html"/>
+   <appContext helpID="import-with-identifiers"
+               path="part4/topic_import_from_cnki.html"/>
+   <appContext helpID="concept_cnki_import" path="part4/concept_import_from_cnki.html"/>
+   <appContext helpID="task_import_cnki_entries"
+               path="part4/task_import_from_cnki.html"/>
+   <appContext helpID="import-with-identifiers"
+               path="part4/topic_import_with_identifiers.html"/>
+   <appContext helpID="concept_identifiers_import"
+               path="part4/concept_import_with_identifiers.html"/>
+   <appContext helpID="task_import_by_identifier"
+               path="part4/task_import_with_identifiers.html"/>
+   <appContext helpID="troubleshooting_can_t_find_identifier"
+               path="part4/troubleshooting_can_t_find_identifier.html"/>
+   <appContext helpID="local-import" path="part4/topic_local_import.html"/>
+   <appContext helpID="concept_cnki_import" path="part4/concept_local_import.html"/>
+   <appContext helpID="task_import_local_entries" path="part4/task_local_import.html"/>
+   <appContext helpID="troubleshooting_duplicate_entries"
+               path="part4/troubleshooting_duplicate_documents.html"/>
+   <appContext helpID="notes-managements" path="part5/topic_notes_managements.html"/>
+   <appContext helpID="adding-notes" path="part5/topic_adding_notes.html"/>
+   <appContext helpID="highlights" path="part5/topic_highlights.html"/>
+   <appContext helpID="concept_highlights" path="part5/concept_highlights.html"/>
+   <appContext helpID="task_highlight_underline_pdf" path="part5/task_highlights.html"/>
+   <appContext helpID="adding-annotations" path="part5/topic_adding_annotations.html"/>
+   <appContext helpID="concept_adding_annotations"
+               path="part5/concept_adding_annotations.html"/>
+   <appContext helpID="task_add_note_pdf" path="part5/task_adding_annotations.html"/>
+   <appContext helpID="deleting-annotations"
+               path="part5/topic_deleting_annotations.html"/>
+   <appContext helpID="concept_deleting_annotations"
+               path="part5/concept_deleting_annotations.html"/>
+   <appContext helpID="task_delete_annotation"
+               path="part5/task_deleting_annotations.html"/>
+   <appContext helpID="topic_adding_annotations_to_notes"
+               path="part5/topic_adding_annotations_to_notes.html"/>
+   <appContext helpID="concept_adding_annotations_to_notes"
+               path="part5/concept_adding_annotations_to_notes.html"/>
+   <appContext helpID="task_adding_annotations_to_notes"
+               path="part5/task_adding_annotations_to_notes.html"/>
+   <appContext helpID="topic_adding_individual_notes"
+               path="part5/topic_adding_individual_notes.html"/>
+   <appContext helpID="concept_adding_individual_notes"
+               path="part5/concept_adding_individual_notes.html"/>
+   <appContext helpID="task_adding_independent_note"
+               path="part5/task_adding_individual_notes.html"/>
+   <appContext helpID="reference_individual_notes"
+               path="part5/reference_individual_notes.html"/>
+   <appContext helpID="topic_manage_notes" path="part5/topic_manage_notes.html"/>
+   <appContext helpID="topic_related_documents"
+               path="part5/topic_related_documents.html"/>
+   <appContext helpID="concept_related_documents"
+               path="part5/concept_related_documents.html"/>
+   <appContext helpID="task_related_documents"
+               path="part5/task_related_documents.html"/>
+   <appContext helpID="reference_related_documents"
+               path="part5/reference_related_documents.html"/>
+</map>

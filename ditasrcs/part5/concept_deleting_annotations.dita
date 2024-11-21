@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_deleting_annotations">
-    <title>删除注释</title>
-  
-        <conbody>
-            <p>删除不再需要的标注，保持文档整洁。</p>
-        </conbody>
-    </concept>

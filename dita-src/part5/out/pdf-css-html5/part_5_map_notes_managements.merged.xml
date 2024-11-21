@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/Users/freyaaf/Desktop/zotero-part4_part5/part5/part_5_map_notes_managements.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">part 5 map notes managements</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">part 5 map notes managements</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="notes-managements"><resourceid appid="notes-managements" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">5 笔记管理</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_2" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="adding-notes"><resourceid appid="adding-notes" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">5.1 添加笔记</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_3" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="highlights"><resourceid appid="highlights" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">5.1.1 高亮</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept_highlights"><resourceid appid="concept_highlights" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">高亮</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task_highlight_underline_pdf"><resourceid appid="task_highlight_underline_pdf" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">在 PDF 文档中添加高亮或下划线</navtitle><?ditaot gentext?></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_6" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="adding-annotations"><resourceid appid="adding-annotations" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">5.1.2 添加注释</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept_adding_annotations"><resourceid appid="concept_adding_annotations" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">添加注释</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task_add_note_pdf"><resourceid appid="task_add_note_pdf" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">在 PDF 文档中添加注释</navtitle><?ditaot gentext?></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_9" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="deleting-annotations"><resourceid appid="deleting-annotations" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">5.1.3 删除注释</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_10" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept_deleting_annotations"><resourceid appid="concept_deleting_annotations" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">删除注释</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_11" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task_delete_annotation"><resourceid appid="task_delete_annotation" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">删除注释</navtitle><?ditaot gentext?></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_12" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="topic_adding_annotations_to_notes"><resourceid appid="topic_adding_annotations_to_notes" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">5.1.4 通过注释添加笔记</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_13" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept_adding_annotations_to_notes"><resourceid appid="concept_adding_annotations_to_notes" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">通过注释添加笔记</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_14" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task_adding_annotations_to_notes"><resourceid appid="task_adding_annotations_to_notes" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">通过注释添加笔记</navtitle><?ditaot gentext?></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_15" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="topic_adding_individual_notes"><resourceid appid="topic_adding_individual_notes" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">5.1.5 添加独立笔记</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_16" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept_adding_individual_notes"><resourceid appid="concept_adding_individual_notes" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">添加独立笔记</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_17" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task_adding_independent_note"><resourceid appid="task_adding_independent_note" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_17" class="- topic/navtitle ">添加独立笔记</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_18" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="reference_individual_notes"><resourceid appid="reference_individual_notes" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_18" class="- topic/navtitle ">独立笔记</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "> 独立笔记和子笔记在本质上是一样的，只不过独立笔记不属于任何一个条目，独立笔记显示时和条目是一个级别。</shortdesc></topicmeta></topicref></topicref></topicref><topicref class="- map/topicref " href="#unique_19" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="topic_manage_notes"><resourceid appid="topic_manage_notes" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_19" class="- topic/navtitle ">5.2 管理笔记</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_20" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="topic_related_documents"><resourceid appid="topic_related_documents" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_20" class="- topic/navtitle ">5.2.1 关联文献</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_21" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept_related_documents"><resourceid appid="concept_related_documents" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_21" class="- topic/navtitle ">关联文献</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_22" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task_related_documents"><resourceid appid="task_related_documents" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_22" class="- topic/navtitle ">关联文献</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_23" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="reference_related_documents"><resourceid appid="reference_related_documents" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_23" class="- topic/navtitle ">关联逻辑</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">关联关系是双向的，但不具备传递性即条目A与B关联，Zotero会自动让B关联A；若A关联B，B关联C，A并不会自动关联C。。</shortdesc></topicmeta></topicref></topicref></topicref></topicref>
+</opentopic:map><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="notes-managements" oid="notes-managements" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">5 笔记管理</ph></title>
+    <body class="- topic/body ">
+        
+    </body>
+<topic class="- topic/topic " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="adding-notes" oid="adding-notes" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">5.1 添加笔记</ph></title>
+    <body class="- topic/body ">
+        
+    </body>
+<topic class="- topic/topic " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="highlights" oid="highlights" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">5.1.1 高亮</ph></title>
+    <body class="- topic/body ">
+        
+    </body>
+<concept class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="concept_highlights" oid="concept_highlights" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">高亮</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">高亮文本是快速标记文献重点的常用方法，便于后续整理。</p>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="task_highlight_underline_pdf" oid="task_highlight_underline_pdf" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">在 PDF 文档中添加高亮或下划线</ph></title>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">打开 PDF 文档。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/zotero-part4_part5/part5/5-image/5.1.1a.png" id="unique_5_Connect_42_image_wnd_5lm_ldc" nd:nd-id="image_wnd_5lm_ldc" placement="inline" width="300"/></info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">选中目标句子，点击左侧图标为其<uicontrol class="+ topic/ph ui-d/uicontrol ">高亮</uicontrol>，或点击右侧图标为其添加<uicontrol class="+ topic/ph ui-d/uicontrol ">下划线</uicontrol>。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/zotero-part4_part5/part5/5-image/5.1.1b.png" id="unique_5_Connect_42_image_l33_lmm_ldc" nd:nd-id="image_l33_lmm_ldc" placement="inline" width="300"/></info>
+                <stepresult class="- topic/itemgroup task/stepresult ">选中的句子已成功高亮或添加下划线。<image class="- topic/image " href="file:/Users/freyaaf/Desktop/zotero-part4_part5/part5/5-image/5.1.1c.png" id="unique_5_Connect_42_image_j2f_nmm_ldc" nd:nd-id="image_j2f_nmm_ldc" placement="inline" width="300"/></stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task></topic><topic class="- topic/topic " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="adding-annotations" oid="adding-annotations" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">5.1.2 添加注释</ph></title>
+    <body class="- topic/body ">
+        
+    </body>
+<concept class="- topic/topic concept/concept " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="concept_adding_annotations" oid="concept_adding_annotations" specializations="@props/deliveryTarget">
+        <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">添加注释</ph></title>
+        <conbody class="- topic/body  concept/conbody ">
+            <p class="- topic/p ">注释功能支持多彩标注，帮助高效记录阅读感想或学术见解。</p>
+        </conbody>
+    </concept><task class="- topic/topic task/task " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="task_add_note_pdf" oid="task_add_note_pdf" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">在 PDF 文档中添加注释</ph></title>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">在界面上部选择<uicontrol class="+ topic/ph ui-d/uicontrol ">“添加笔记”</uicontrol>图标。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/zotero-part4_part5/part5/5-image/5.1.2a.png" id="unique_8_Connect_42_image_w5x_ylm_ldc" nd:nd-id="image_w5x_ylm_ldc" placement="inline" width="300"/></info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">点击颜色块选择注释颜色。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/zotero-part4_part5/part5/5-image/5.1.2b.png" id="unique_8_Connect_42_image_olf_1mm_ldc" nd:nd-id="image_olf_1mm_ldc" placement="inline" width="300"/></info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">单击目标位置，键入笔记内容。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/zotero-part4_part5/part5/5-image/5.1.2c-5.1.3a.png" id="unique_8_Connect_42_image_mtl_vnm_ldc" nd:nd-id="image_mtl_vnm_ldc" placement="inline" width="300"/></info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">单击任意空白处以关闭对话框。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/zotero-part4_part5/part5/5-image/5.1.2d.png" id="unique_8_Connect_42_image_mzw_cmm_ldc" nd:nd-id="image_mzw_cmm_ldc" placement="inline" width="300"/></info>
+            </step>
+        </steps>
+    </taskbody>
+</task></topic><topic class="- topic/topic " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="deleting-annotations" oid="deleting-annotations" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">5.1.3 删除注释</ph></title>
+    <body class="- topic/body ">
+        
+    </body>
+<concept class="- topic/topic concept/concept " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="concept_deleting_annotations" oid="concept_deleting_annotations" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">删除注释</ph></title>
+  
+        <conbody class="- topic/body  concept/conbody ">
+            <p class="- topic/p ">删除不再需要的标注，保持文档整洁。</p>
+        </conbody>
+    </concept><task class="- topic/topic task/task " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="task_delete_annotation" oid="task_delete_annotation" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">删除注释</ph></title>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">选中注释图标。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/zotero-part4_part5/part5/5-image/5.1.2c-5.1.3a.png" id="unique_11_Connect_42_image_zl5_5nm_ldc" nd:nd-id="image_zl5_5nm_ldc" placement="inline" width="300"/></info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">点击右侧<uicontrol class="+ topic/ph ui-d/uicontrol ">“三点菜单”</uicontrol>，选择<uicontrol class="+ topic/ph ui-d/uicontrol ">“删除”</uicontrol>。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/zotero-part4_part5/part5/5-image/5.1.3b.png" id="unique_11_Connect_42_image_zhj_xnm_ldc" nd:nd-id="image_zhj_xnm_ldc" placement="inline" width="300"/></info>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/zotero-part4_part5/part5/5-image/5.1.3c.png" id="unique_11_Connect_42_image_s4t_ynm_ldc" nd:nd-id="image_s4t_ynm_ldc" placement="inline" width="150"/></info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">或在选中注释图标后按键盘 <uicontrol class="+ topic/ph ui-d/uicontrol ">⌫ 删除键</uicontrol>。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></topic><topic class="- topic/topic " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="topic_adding_annotations_to_notes" oid="topic_adding_annotations_to_notes" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">5.1.4 通过注释添加笔记</ph></title>
+ 
+   
+        <body class="- topic/body ">
+            
+        </body>
+    <concept class="- topic/topic concept/concept " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="concept_adding_annotations_to_notes" oid="concept_adding_annotations_to_notes" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">通过注释添加笔记</ph></title>
+    
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">自动生成基于注释的笔记，并支持格式自定义。</p>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_14" topicrefclass="- map/topicref " nd:nd-id="task_adding_annotations_to_notes" oid="task_adding_annotations_to_notes" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">通过注释添加笔记</ph></title>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">打开 PDF 文件，右键点击，选择<uicontrol class="+ topic/ph ui-d/uicontrol ">“通过注释添加笔记”</uicontrol>。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/zotero-part4_part5/part5/5-image/5.1.4a.png" id="unique_14_Connect_42_image_srn_b4m_ldc" nd:nd-id="image_srn_b4m_ldc" placement="inline" width="300"/></info>
+                <stepresult class="- topic/itemgroup task/stepresult "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/zotero-part4_part5/part5/5-image/5.1.4b.png" id="unique_14_Connect_42_image_otr_d4m_ldc" nd:nd-id="image_otr_d4m_ldc" placement="inline" width="300"/></stepresult>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">自定义笔记内容格式。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/zotero-part4_part5/part5/5-image/5.1.4c.png" id="unique_14_Connect_42_image_oyd_f4m_ldc" nd:nd-id="image_oyd_f4m_ldc" placement="inline" width="200"/></info>
+            </step>
+        </steps>
+    </taskbody>
+</task></topic><topic class="- topic/topic " id="unique_15" topicrefclass="- map/topicref " nd:nd-id="topic_adding_individual_notes" oid="topic_adding_individual_notes" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">5.1.5 添加独立笔记</ph></title>
+    
+    
+    <body class="- topic/body ">
+        
+    </body>
+<concept class="- topic/topic concept/concept " id="unique_16" topicrefclass="- map/topicref " nd:nd-id="concept_adding_individual_notes" oid="concept_adding_individual_notes" specializations="@props/deliveryTarget">
+  
+        <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">添加独立笔记</ph></title>
+        
+        <conbody class="- topic/body  concept/conbody ">
+            <p class="- topic/p ">独立笔记适合记录与具体文献条目无关的内容，便于学术管理。</p>
+        </conbody>
+    </concept><task class="- topic/topic task/task " id="unique_17" topicrefclass="- map/topicref " nd:nd-id="task_adding_independent_note" oid="task_adding_independent_note" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">添加独立笔记</ph></title>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">点击 Zotero 工具栏上的<uicontrol class="+ topic/ph ui-d/uicontrol ">“新建独立笔记”</uicontrol>图标。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/zotero-part4_part5/part5/5-image/5.1.5a.png" id="unique_17_Connect_42_image_lvk_h4m_ldc" nd:nd-id="image_lvk_h4m_ldc" placement="inline" width="200"/></info>
+                <stepresult class="- topic/itemgroup task/stepresult ">成功创建一个新的独立笔记。<image class="- topic/image " href="file:/Users/freyaaf/Desktop/zotero-part4_part5/part5/5-image/5.1.5b.png" id="unique_17_Connect_42_image_bgx_1pm_ldc" nd:nd-id="image_bgx_1pm_ldc" placement="inline" width="300"/></stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task><reference class="- topic/topic       reference/reference " id="unique_18" topicrefclass="- map/topicref " nd:nd-id="reference_individual_notes" oid="reference_individual_notes" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">独立笔记</ph></title>
+    <shortdesc class="- topic/shortdesc "> 独立笔记和子笔记在本质上是一样的，只不过独立笔记不属于任何一个条目，独立笔记显示时和条目是一个级别。</shortdesc>
+   
+</reference></topic></topic><topic class="- topic/topic " id="unique_19" topicrefclass="- map/topicref " nd:nd-id="topic_manage_notes" oid="topic_manage_notes" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">5.2 管理笔记</ph></title>
+    
+        
+        
+        <body class="- topic/body ">
+            
+        </body>
+    <topic class="- topic/topic " id="unique_20" topicrefclass="- map/topicref " nd:nd-id="topic_related_documents" oid="topic_related_documents" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">5.2.1 关联文献</ph></title>
+    
+        <body class="- topic/body ">
+            
+        </body>
+    <concept class="- topic/topic concept/concept " id="unique_21" topicrefclass="- map/topicref " nd:nd-id="concept_related_documents" oid="concept_related_documents" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">关联文献</ph></title>
+        
+        <conbody class="- topic/body  concept/conbody ">
+            <p class="- topic/p ">笔记间可建立条目关联，快速定位相关文献。</p>
+        </conbody>
+    </concept><task class="- topic/topic task/task " id="unique_22" topicrefclass="- map/topicref " nd:nd-id="task_related_documents" oid="task_related_documents" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">关联文献</ph></title>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">点击<uicontrol class="+ topic/ph ui-d/uicontrol ">“关联文献”</uicontrol>栏中的<uicontrol class="+ topic/ph ui-d/uicontrol ">“+”</uicontrol>按钮。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/zotero-part4_part5/part5/5-image/5.2.1a.png" id="unique_22_Connect_42_image_jjf_l4m_ldc" nd:nd-id="image_jjf_l4m_ldc" placement="inline" width="200"/></info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">确定关联文献，点击<uicontrol class="+ topic/ph ui-d/uicontrol ">“选择”</uicontrol>。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/zotero-part4_part5/part5/5-image/5.2.1b.png" id="unique_22_Connect_42_image_xqf_n4m_ldc" nd:nd-id="image_xqf_n4m_ldc" placement="inline" width="300"/></info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">添加关联条目后，单击关联的条目就会跳转到该关联条目所在的位置。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/zotero-part4_part5/part5/5-image/5.2.1c.png" id="unique_22_Connect_42_image_u2g_r4m_ldc" nd:nd-id="image_u2g_r4m_ldc" placement="inline" width="200"/></info>
+            </step>
+        </steps>
+    </taskbody>
+</task><reference class="- topic/topic       reference/reference " id="unique_23" topicrefclass="- map/topicref " nd:nd-id="reference_related_documents" oid="reference_related_documents" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">关联逻辑</ph></title>
+ 
+    <shortdesc class="- topic/shortdesc ">关联关系是双向的，但不具备传递性即条目A与B关联，Zotero会自动让B关联A；若A关联B，B关联C，A并不会自动关联C。。</shortdesc>
+       
+    </reference></topic></topic></topic></map>

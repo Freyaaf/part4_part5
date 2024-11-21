@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>part 5 notes managements</title>
+    <topicref href="../part5/topic_notes_managements.dita">
+        <topicref href="../part5/topic_adding_notes.dita">
+            <topicref href="../part5/topic_highlights.dita">
+                <topicref href="../part5/concept_highlights.dita"/>
+                <topicref href="../part5/task_highlights.dita"/>
+            </topicref>
+            <topicref href="../part5/topic_adding_annotations.dita">
+                <topicref href="../part5/concept_adding_annotations.dita"/>
+                <topicref href="../part5/task_adding_annotations.dita"/>
+            </topicref>
+            <topicref href="../part5/topic_deleting_annotations.dita">
+                <topicref href="../part5/concept_deleting_annotations.dita"/>
+                <topicref href="../part5/task_deleting_annotations.dita"/>
+            </topicref>
+            <topicref href="../part5/topic_adding_annotations_to_notes.dita">
+                <topicref href="../part5/concept_adding_annotations_to_notes.dita"/>
+                <topicref href="../part5/task_adding_annotations_to_notes.dita"/>
+            </topicref>
+            <topicref href="../part5/topic_adding_individual_notes.dita">
+                <topicref href="../part5/concept_adding_individual_notes.dita"/>
+                <topicref href="../part5/task_adding_individual_notes.dita"/>
+                <topicref href="../part5/reference_individual_notes.dita"/>
+            </topicref>
+        </topicref>
+        <topicref href="../part5/topic_manage_notes.dita">
+            <topicref href="../part5/topic_related_documents.dita">
+                <topicref href="../part5/concept_related_documents.dita"/>
+                <topicref href="../part5/task_related_documents.dita"/>
+                <topicref href="../part5/reference_related_documents.dita"/>
+            </topicref>
+        </topicref>
+    </topicref>
+</map>

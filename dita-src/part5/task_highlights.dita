@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_highlight_underline_pdf">
+    <title>在 PDF 文档中添加高亮或下划线</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>打开 PDF 文档。</cmd>
+                <info><image href="5-image/5.1.1a.png" width="300" id="image_wnd_5lm_ldc"/></info>
+            </step>
+            <step>
+                <cmd>选中目标句子，点击左侧图标为其<uicontrol>高亮</uicontrol>，或点击右侧图标为其添加<uicontrol>下划线</uicontrol>。</cmd>
+                <info><image href="5-image/5.1.1b.png" width="300" id="image_l33_lmm_ldc"/></info>
+                <stepresult>选中的句子已成功高亮或添加下划线。<image href="5-image/5.1.1c.png" width="300"
+                        id="image_j2f_nmm_ldc"/></stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

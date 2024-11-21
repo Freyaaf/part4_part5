@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-
-<concept id="concept_cnki_import">
-    <title>从中国知网导入文献条目</title>
-    <conbody>
-        <p>Zotero 提供插件支持直接从中国知网（CNKI）导入文献条目，便于高效获取学术资源。</p>
-    </conbody>
-</concept>
