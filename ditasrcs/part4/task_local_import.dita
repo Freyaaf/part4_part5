@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_import_local_entries">
+    <title>如何从本地导入中文文献</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>点击<uicontrol>“添加文件”</uicontrol>图标。</cmd>
+                <info><image href="4-image/4.2.3a.png" width="300" id="image_ypr_52m_ldc"/></info>
+            </step>
+            <step>
+                <cmd>从本地选择所需文献。</cmd>
+                <info><image href="4-image/4.2.3b.png" width="300" id="image_hqv_v2m_ldc"/></info>
+                <stepresult>文件已成功导入 Zotero。<image href="4-image/4.2.3c.png" width="300"
+                        id="image_ixc_x2m_ldc"/></stepresult>
+            </step>
+            <step>
+                <cmd>右键选中文献，依次点击<uicontrol>“知网助手”</uicontrol>，<uicontrol>“抓取文献元数据”</uicontrol>。</cmd>
+                <info><image href="4-image/4.2.3d.png" width="300" id="image_wd4_y2m_ldc"/></info>
+                <stepresult>成功抓取文献的元数据并添加至 Zotero。<image href="4-image/4.2.3e.jpg" width="300"
+                        id="image_grv_z2m_ldc"/></stepresult>
+            </step>
+            <step>
+                <cmd>右键点击条目，选择<uicontrol>“添加到分类”</uicontrol>。</cmd>
+                <info><image href="4-image/4.2.3f.png" width="300" id="image_m3g_bfm_ldc"/></info>
+                <stepresult>文献已成功添加到目标分类。<image href="4-image/4.2.3g.png" width="250"
+                        id="image_vkv_cfm_ldc"/></stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

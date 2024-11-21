@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_identifiers_import">
+    <title>通过文献标识符导入题录</title>
+    <conbody>
+        <p>文献标识符（如 DOI 或 ISBN）是快速导入条目的关键信息。</p>
+    </conbody>
+</concept>

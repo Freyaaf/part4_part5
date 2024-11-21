@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>part4 import references</title>
+    <topicref href="../part4/topic_import_references.dita">
+        <topicref href="../part4/topic_create_library.dita">
+            <topicref href="../part4/concept_library.dita"/>
+            <topicref href="../part4/task_create_library.dita"/>
+        </topicref>
+        <topicref href="../part4/topic_import_documents.dita">
+            <topicref href="../part4/topic_import_from_cnki.dita">
+                <topicref href="../part4/concept_import_from_cnki.dita"/>
+                <topicref href="../part4/task_import_from_cnki.dita"/>
+            </topicref>
+            <topicref href="../part4/topic_import_with_identifiers.dita">
+                <topicref href="../part4/concept_import_with_identifiers.dita"/>
+                <topicref href="../part4/task_import_with_identifiers.dita"/>
+                <topicref href="../part4/troubleshooting_can_t_find_identifier.dita"/>
+            </topicref>
+            <topicref href="../part4/topic_local_import.dita">
+                <topicref href="../part4/concept_local_import.dita"/>
+                <topicref href="../part4/task_local_import.dita"/>
+                <topicref href="../part4/troubleshooting_duplicate_documents.dita"/>
+            </topicref>
+        </topicref>
+    </topicref>
+</map>

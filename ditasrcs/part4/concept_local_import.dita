@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_cnki_import">
+    <title>本地导入中文文献</title>
+    <conbody>
+        <p>本地文献导入可手动添加文件到 Zotero 文献库，适合管理非线上资源。</p>
+    </conbody>
+</concept>

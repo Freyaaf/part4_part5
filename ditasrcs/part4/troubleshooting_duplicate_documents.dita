@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="troubleshooting_duplicate_entries">
+    <title>文献库中出现重复条目</title>
+    <troublebody>
+        <condition>
+            <title>Condition</title>
+            <p>Zotero 文献库中出现重复条目。<image href="4-image/4.2.3h.png" width="300" id="image_ccq_2fm_ldc"
+                /></p>
+        </condition>
+        <troubleSolution>
+            <cause>
+                <title>Cause</title>
+                <p>文献重复导入。</p>
+            </cause>
+            <remedy>
+                <title>Remedy</title>
+                <responsibleParty>用户</responsibleParty>
+                <steps>
+                    <step>
+                        <cmd>打开<uicontrol>“重复条目”</uicontrol>文献库。 <image href="4-image/4.2.3i.png"
+                                width="300" id="image_hzt_ffm_ldc"/></cmd>
+                    </step>
+                    <step>
+                        <cmd>选中其中一条，重复文献将自动被选中。<image href="4-image/4.2.3j.png" width="300"
+                                id="image_avb_hfm_ldc"/></cmd>
+                    </step>
+                    <step>
+                        <cmd>点击右上角的<uicontrol>“合并条目”</uicontrol>完成操作。<image
+                                href="4-image/4.2.3k.png" width="300" id="image_mfs_3fm_ldc"/></cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>

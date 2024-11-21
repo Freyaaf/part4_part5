@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_adding_annotations_to_notes">
+    <title>通过注释添加笔记</title>
+    
+    <conbody>
+        <p>自动生成基于注释的笔记，并支持格式自定义。</p>
+    </conbody>
+</concept>
